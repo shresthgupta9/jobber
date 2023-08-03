@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jobber/static/css/main.94ace8f9.css",
+    "main.js": "/jobber/static/js/main.f5756406.js",
+    "static/media/banner-bg.png": "/jobber/static/media/banner-bg.1b32b4ae9dfd847807db.png",
+    "static/media/twitter.svg": "/jobber/static/media/twitter.489d38fdb648545cd50e0679629b9348.svg",
+    "index.html": "/jobber/index.html",
+    "static/media/facebook.svg": "/jobber/static/media/facebook.95728f8f306ef79ecfe88d2ae4aac6ab.svg",
+    "static/media/letter-j.svg": "/jobber/static/media/letter-j.740f6d8fe2864508c028a928c4ed875a.svg",
+    "main.94ace8f9.css.map": "/jobber/static/css/main.94ace8f9.css.map",
+    "main.f5756406.js.map": "/jobber/static/js/main.f5756406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ace8f9.css",
+    "static/js/main.f5756406.js"
+  ]
+}

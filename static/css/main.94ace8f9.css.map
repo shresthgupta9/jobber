@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.94ace8f9.css","mappings":"AAAA,EACI,QAAS,CACT,SACJ,CAEA,KACI,aACJ,CAEA,KACI,mCACJ","sources":["index.css"],"sourcesContent":["* {\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\n.clr {\r\n    color: #2cc8f1;\r\n}\r\n\r\n.fnt {\r\n    font-family: 'Josefin Sans', sans-serif;\r\n}"],"names":[],"sourceRoot":""}
